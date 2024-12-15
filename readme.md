@@ -13,6 +13,8 @@ Este projeto consiste em um dashboard interativo criado com o Streamlit e Plotly
 
 - Avaliações por filial: Analise a média de avaliações das filiais pelos clientes.
 
+<img src="./assets/dashboard.png" alt="Dashboard Mercado">
+
 ### 🖥️ Instalação
 
 1. Clone este repositório
@@ -35,5 +37,3 @@ streamlit run dashboard.py
 ```
 
 Acesse o dashboard no navegador pelo link gerado no terminal (geralmente http://localhost:8501).
-
-<img src="./assets/dashboard.png" alt="Dashboard Mercado">
